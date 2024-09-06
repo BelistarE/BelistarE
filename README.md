@@ -1,5 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75DAC&center=true&width=435&lines=Isabeli+Estefano" alt="Typing SVG" /></a>
-
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=git,java,eclipse,bash,c,cpp,codepen,html,css,js,npm,react,nodejs,webpack,ubuntu,vscode,vercel&theme=light)](https://skillicons.dev)
 <!--
 **BelistarE/BelistarE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
