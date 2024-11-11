@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75DAC&center=false&width=435&lines=Isabeli+Estefano" alt="Typing SVG" /></a>
 
-![Top](https://github-readme-stats.vercel.app/api?username=BelistarE&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BelistarE&hide_progress=true)
 
 [![Time stats](https://github-readme-stats.vercel.app/api/wakatime?username=beliest)](https://github.com/anuraghazra/github-readme-stats)
 
