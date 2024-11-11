@@ -2,7 +2,8 @@
 
 ![Top](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-[![Time stats](https://github-readme-stats.vercel.app/api/wakatime?beliest=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Time stats](https://github-readme-stats.vercel.app/api/wakatime?username=beliest)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=git,java,bash,c,cpp,html,css,js,npm,react,nodejs,webpack,ubuntu,vscode&theme=light)](https://skillicons.dev)
