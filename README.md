@@ -1,4 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75DAC&center=false&width=435&lines=Isabeli+Estefano" alt="Typing SVG" /></a>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BelistarE)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=git,java,bash,c,cpp,html,css,js,npm,react,nodejs,webpack,ubuntu,vscode&theme=light)](https://skillicons.dev)
 <!--
